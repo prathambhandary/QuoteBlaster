@@ -32,7 +32,8 @@ def show_notification():
     notification.notify(
         title="🔥 Daily Trigger",
         message=message,
-        timeout=10
+        timeout=10,
+        app_icon="icon.ico"
     )
 
 if __name__ == "__main__":
