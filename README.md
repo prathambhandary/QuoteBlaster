@@ -82,8 +82,7 @@ This ensures notifications are delivered consistently without manual execution.
 
 ## Example Output
 
-<img width="2132" height="1212" alt="589622445-2bce61b3-f40c-43da-862f-189143ec13d8" src="https://github.com/user-attachments/assets/8fc51aef-80f7-450f-bb92-51fbb0c13ccf" />
-
+<img width="1034" height="648" alt="ac0ef055-eedb-479b-b6f9-721e3f88d326" src="https://github.com/user-attachments/assets/af61754c-96a4-474d-b137-d9b500073a77" />
 
 ---
 
